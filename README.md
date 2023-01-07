@@ -2,7 +2,7 @@
 <h3 align="center">Computer Sience Enginnering student</h3>
 
 
-- 🌱 I’m currently learning **Elixir, Networks**
+- 🌱 I’m currently learning **Elixir, Network and Communication**
 
 - 📫 Email **kenan.dizdareviic@gmail.com**
 
