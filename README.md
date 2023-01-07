@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kenan Dizdarevic</h1>
 <h3>As a second year student in the Information & Communication Technology Engineering program at the KTH Royal Institute of Technology, I am constantly seeking new opportunities to expand my knowledge and skills in the fields of computer science and electronics. I am highly motivated and driven, with a strong desire to succeed in my studies and future career. In my free time, I enjoy staying up to date with the latest developments in technology. I am always open to new challenges and opportunities and am excited to see where my studies and interests will take me in the future.</h3>
 
