@@ -5,7 +5,6 @@
 
 
 - 🌱 I’m currently learning: **Elixir & networks**
-
 - 📫 Email: **kenandi@kth.se**
 
 <h3 align="left">Connect with me:</h3>
