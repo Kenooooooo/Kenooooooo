@@ -15,7 +15,7 @@
 
 <h3>Languages & Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,elixir,java,c,cs,javascript,html,css,nodejs,react,vue,firebase,latex,linux,&perline=10&theme=dark)](https://kenandizdarevic.com)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,elixir,java,c,cs,javascript,html,css,nodejs,react,vue,firebase,latex,linux,unity,&perline=10&theme=dark)](https://kenandizdarevic.com)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenandizdarevic&theme=dark" alt="kenandizdarevic" /></p>
 
